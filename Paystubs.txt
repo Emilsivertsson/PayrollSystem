@@ -1,0 +1,30 @@
+		Abc Company
+	Name: Bob Hope - Employee1000
+	Paydate 	54/02/2023
+	Net Salary $65000.0
+	Gross Salary $45500.0		Abc Company
+	Name: Jane - Employee1001
+	Paydate 	54/02/2023
+	Net Salary $35000.0
+	Gross Salary $24500.0		Abc Company
+	Name: Billy Joe - Employee1002
+	Paydate 	54/02/2023
+	Net Salary $40000.0
+	Gross Salary $28000.0			Abc Company
+	Name: Bob Hope - Employee1000
+	Paydate 	54/02/2023
+	Net Salary $65000.0
+	Gross Salary $45500.0
+
+			Abc Company
+	Name: Jane - Employee1001
+	Paydate 	54/02/2023
+	Net Salary $35000.0
+	Gross Salary $24500.0
+
+			Abc Company
+	Name: Billy Joe - Employee1002
+	Paydate 	54/02/2023
+	Net Salary $40000.0
+	Gross Salary $28000.0
+
